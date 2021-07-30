@@ -42,7 +42,7 @@ plugin:
     screenshots:
       - title: Sitemap
         description: Sitemap
-        url: https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/.crafter/screenshots/cover.png
   developer:
     company:
       name: Crafter Software
