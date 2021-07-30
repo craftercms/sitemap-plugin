@@ -41,8 +41,8 @@ plugin:
   media:
     screenshots:
       - title: Sitemap
-        description: Sitemap Example
-        url: https://raw.githubusercontent.com/craftercms/analytics-plugin/master/.crafter/cover.png
+        description: Sitemap
+        url: https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/.crafter/cover.png
   developer:
     company:
       name: Crafter Software
