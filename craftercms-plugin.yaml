@@ -33,7 +33,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   description: Plugin to generate a site map
   website:
     name: Sitemap Plugin
