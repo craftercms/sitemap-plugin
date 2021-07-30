@@ -33,7 +33,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   description: Plugin to generate a site map
   website:
     name: Sitemap Plugin
@@ -41,8 +41,8 @@ plugin:
   media:
     screenshots:
       - title: Sitemap
-        description: Sitemap Example
-        url: https://raw.githubusercontent.com/craftercms/analytics-plugin/master/.crafter/cover.png
+        description: Sitemap
+        url: https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/.crafter/cover.png
   developer:
     company:
       name: Crafter Software
