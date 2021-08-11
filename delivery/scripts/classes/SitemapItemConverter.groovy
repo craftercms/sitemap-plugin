@@ -70,7 +70,7 @@ class SitemapItemConverter implements Converter<SiteItem, NavItem> {
         // If the item is present add the sitmap attributes
         if (item) {
             item.attributes.loc = urlTransformationService.transform("storeUrlToFullRenderUrl", siteItem.storeUrl)
-            item.attributes.lastmod = siteItem.lastModifiedDate as String
+            item.attributes.lastmod = siteItem.lastModifiedDate?.text
             item.attributes.changefreq = siteItem.changeFrequency_s as String
             item.attributes.priority = siteItem.priority_f as String
         }

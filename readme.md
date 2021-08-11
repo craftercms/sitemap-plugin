@@ -11,6 +11,9 @@ The plugin can be installed to your site from the Crafter CMS Marketplace
 After the plugin has been installed you can test the result by opening the URL
 http://localhost:8080/plugins/org/craftercms/plugin/sitemap/sitemap
 
+**Note:** this URL will only work **without** an extension, if `.xml` or `.json` is added the result will not be
+serialized using the sitemap specification.
+
 The plugin will generate an XML sitemap for the top level pages that are configured with `Place in Nav`, for more
 information check the [documentation](https://docs.craftercms.org/en/4.0/developers/form-controls/form-page-order.html).
 
