@@ -1,10 +1,10 @@
-# Sitemap Plugin for Crafter CMS
+# Sitemap Plugin for CrafterCMS
 
 This is a plugin to generate a sitemap for your site.
 
 # Installation
 
-The plugin can be installed to your site from the Crafter CMS Marketplace
+The plugin can be installed to your site from the CrafterCMS Marketplace
 
 # Setup
 
