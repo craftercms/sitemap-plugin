@@ -33,7 +33,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 9
+    patch: 10
   description: Plugin to generate a site map
   documentation: "https://raw.githubusercontent.com/craftercms/sitemap-plugin/master/readme.md"
   website:
@@ -62,6 +62,9 @@ plugin:
     - major: 4
       minor: 0
       patch: 2
+    - major: 4
+      minor: 0
+      patch: 3
   crafterCmsEditions:
     - community
     - enterprise
